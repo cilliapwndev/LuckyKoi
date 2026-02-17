@@ -5,9 +5,6 @@
 
 
 
-[Image of a hierarchy of financial needs pyramid]
-
-
 ---
 
 ## 🧠 The Calculation Engine
@@ -56,3 +53,9 @@ LuckyKoi guides you through a 10-tier progression system. You cannot reach the n
 ```bash
 gem install luckykoi
 lucky_koi
+```
+
+LuckyKoi is licensed under the **GNU General Public License v3.0**.  
+See the [LICENSE](LICENSE) file for the full text.
+
+> "This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation..."
