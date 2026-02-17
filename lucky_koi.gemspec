@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Mark Angelo P. Santonil"]
   s.email       = 'cillia2203@gmail.com'
   s.files       = Dir["lib/**/*.rb", "bin/*"]
-  s.executables << 'lucky_koi'
+  s.executables << 'luckykoi'
   s.license     = 'MIT'
 
   # Dependencies
