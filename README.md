@@ -52,7 +52,7 @@ LuckyKoi guides you through a 10-tier progression system. You cannot reach the n
 ### Installation
 ```bash
 gem install luckykoi
-lucky_koi
+luckykoi
 ```
 
 LuckyKoi is licensed under the **GNU General Public License v3.0**.  
